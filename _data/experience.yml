@@ -1,19 +1,23 @@
 # Jobs
-# Shoptocat
-- company: GitHub, Inc.
-  position: Shoptocat
-  duration: March, 2013 &mdash; Present
-  summary: Create awesome swag, ensure orders get delivered quickly, collect all the stickers.
+
+# Web Developer
+- company: Space Force
+  position: Space  adet
+  duration: June, 2015 &mdash; Present
+  summary: To boldly go where no man has gone before
+
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
+- company: Super Cuts
+  position: Hair cuts
   duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+  summary: Cut hair
 
 
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  October 2016 &mdash; Present
-  summary: Provide amazing support to customers on the GitHub for Business platform
+
+# Intern
+- company: Space bukets
+  position: Intern - Web Developer
+  duration:  forever and a day
+  summary: Worked on various user facing projects on GitHub.com
+
