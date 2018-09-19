@@ -1,6 +1,7 @@
 # Site settings
-title: "second change to resume file"
-description: "second change to resume file."
+
+title: "red321123 sample resume"
+description: "A resume template for Jekyll and GitHub Pages sites. red321123"
 
 # Build settings
 markdown: kramdown
