@@ -11,12 +11,12 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "red321123 sample resume"
-resume_title:                   "Space Force Cadet"
+resume_name:                    "red321123 sample resume version 2"
+resume_title:                   "Master Space Force Cadet"
 resume_contact_email:           "test@testemail.com"
 resume_contact_telephone:       "1 (877) 448-4820"
-resume_contact_address:         "VEnus"
-resume_header_contact_info: "San Francisco, CA | 1 (877) 448-4820 | services@github.com"
+resume_contact_address:         "Uranus"
+resume_header_contact_info: "spaceforce.com"
 resume_header_intro: "<p>All things beautiful</p>"
 
 
